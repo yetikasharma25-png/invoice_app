@@ -13,7 +13,6 @@ yarn-error.log
 dist/
 build/
 .next/
-
 # IDE
 .vscode/
 .idea/
@@ -21,10 +20,8 @@ build/
 *.swo
 *~
 .DS_Store
-
 # OS
 Thumbs.db
-
 # Testing
 coverage/
 .nyc_output/
